@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Melvano - Home</title>
-    <link>https://substancia.github.io/melvano/categories/</link>
+    <link>https://substancia.github.io/melvano.github.io/categories/</link>
     <description>Recent content in Categories on Melvano - Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://substancia.github.io/melvano/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://substancia.github.io/melvano.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
