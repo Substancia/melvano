@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Check-in</title>
+
+    
+    <link href="https://substancia.github.io/melvano/css/bootstrap-theme.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <link href="/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
+    
+    <link href="https://substancia.github.io/melvano/css/HPstyles.css" rel="stylesheet">
+    <link href="https://substancia.github.io/melvano/css/hugofont.css" rel="stylesheet">
+    <link href="https://substancia.github.io/melvano/css/owl.carousel.css" rel="stylesheet">
+    <link href="https://substancia.github.io/melvano/css/owl.theme.default.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/melvano.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+
+  <body>
+
+<p><br><br>
+Tell HashLearn what you are<br>
+studying right now</p>
+
+
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <h3>Follow us on:-</h3>
+       
+            <a href="https://twitter.com" class="btn btn-default btn-lg"><i class="fa fa-facebook"></i></a>
+        
+            <a href="https://twitter.com" class="btn btn-default btn-lg"><i class="fa fa-twitter"></i></a>
+        
+            <a href="https://linkedin.com" class="btn btn-default btn-lg"><i class="fa fa-linkedin"></i></a>
+        
+        </ul>
+        <hr>
+        <h3>Copyright &copy; Melvano</h3>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="https://substancia.github.io/melvano/js/jquery-2.1.1.min.js"></script>
+<script src="https://substancia.github.io/melvano/js/owl.carousel.min.js"></script>
+
+<script>
+$(function() {
+$('a[href*=#]:not([href=#])').click(function() {
+  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+      || location.hostname == this.hostname) {
+
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+    if (target.length) {
+      $('html,body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+    }
+  }
+});
+});
+$('.owl-carousel').owlCarousel({
+loop:true,
+margin:10,
+nav:true,
+autoplay:true,
+autoplayHoverPause:true,
+autoplayTimeout:3000,
+responsive:{
+    0:{
+        items:1
+    },
+    1000:{
+        items:3
+    },
+}
+})
+</script>
+
+
+</body>
+
+</html>
+
