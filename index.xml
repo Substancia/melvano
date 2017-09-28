@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melvano - Home</title>
-    <link>file:///home/sentienta/HugoSites/melvano.github.io/</link>
+    <link>https://substancia.github.io/melvano.github.io/</link>
     <description>Recent content on Melvano - Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 13 Oct 2014 20:07:19 +0000</lastBuildDate>
     
-	<atom:link href="file:///home/sentienta/HugoSites/melvano.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://substancia.github.io/melvano.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Your everyday study partner</title>
-      <link>file:///home/sentienta/HugoSites/melvano.github.io/post/first/</link>
+      <link>https://substancia.github.io/melvano.github.io/post/first/</link>
       <pubDate>Mon, 13 Oct 2014 20:07:19 +0000</pubDate>
       
-      <guid>file:///home/sentienta/HugoSites/melvano.github.io/post/first/</guid>
+      <guid>https://substancia.github.io/melvano.github.io/post/first/</guid>
       <description>Check-in to your study topic Get doubts cleared instantly by top tutors, 24&amp;frasl;7</description>
     </item>
     
     <item>
       <title>Check-in</title>
-      <link>file:///home/sentienta/HugoSites/melvano.github.io/post/second/</link>
+      <link>https://substancia.github.io/melvano.github.io/post/second/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>file:///home/sentienta/HugoSites/melvano.github.io/post/second/</guid>
-      <description>Tell HashLearn what you are
+      <guid>https://substancia.github.io/melvano.github.io/post/second/</guid>
+      <description>Tell Melvano what you are
 studying right now</description>
     </item>
     
     <item>
       <title>Get doubts cleared</title>
-      <link>file:///home/sentienta/HugoSites/melvano.github.io/post/third/</link>
+      <link>https://substancia.github.io/melvano.github.io/post/third/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>file:///home/sentienta/HugoSites/melvano.github.io/post/third/</guid>
+      <guid>https://substancia.github.io/melvano.github.io/post/third/</guid>
       <description>Instantly, by top tutors
 from IITs, NITs, BITS &amp;amp; AIIMS</description>
     </item>
     
     <item>
       <title>Practice questions</title>
-      <link>file:///home/sentienta/HugoSites/melvano.github.io/post/fourth/</link>
+      <link>https://substancia.github.io/melvano.github.io/post/fourth/</link>
       <pubDate>Mon, 13 Oct 2014 20:07:19 +0000</pubDate>
       
-      <guid>file:///home/sentienta/HugoSites/melvano.github.io/post/fourth/</guid>
+      <guid>https://substancia.github.io/melvano.github.io/post/fourth/</guid>
       <description>Thousands of curated questions
 with instant feedback and stats</description>
     </item>
     
     <item>
       <title>Share with friends</title>
-      <link>file:///home/sentienta/HugoSites/melvano.github.io/post/fifth/</link>
+      <link>https://substancia.github.io/melvano.github.io/post/fifth/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>file:///home/sentienta/HugoSites/melvano.github.io/post/fifth/</guid>
+      <guid>https://substancia.github.io/melvano.github.io/post/fifth/</guid>
       <description>Liked a practice question?
 Share it instantly!</description>
     </item>
